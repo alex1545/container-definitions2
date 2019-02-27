@@ -5,6 +5,6 @@ githubRepoDeps:
   # layer-definitions repo.
   - name: "bazel-toolchains"
     owner: "bazelbuild"
-    repo: "bazle-toolchains"
+    repo: "bazel-toolchains"
     branch: "master"
     updateType: "commit"
