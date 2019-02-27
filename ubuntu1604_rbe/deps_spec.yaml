@@ -3,8 +3,8 @@ revisionsFilePath: "ubuntu1604_rbe/revisions.bzl"
 githubRepoDeps:
 
   # layer-definitions repo.
-  - name: "layer-definitions"
-    owner: "GoogleCloudPlatform"
-    repo: "layer-definitions"
+  - name: "bazel-toolchains"
+    owner: "bazelbuild"
+    repo: "bazle-toolchains"
     branch: "master"
     updateType: "commit"
