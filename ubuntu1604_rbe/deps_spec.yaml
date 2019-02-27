@@ -6,4 +6,5 @@ githubRepoDeps:
   - name: "layer-definitions"
     owner: "GoogleCloudPlatform"
     repo: "layer-definitions"
+    branch: "master"
     updateType: "commit"
