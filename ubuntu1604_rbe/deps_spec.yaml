@@ -1,0 +1,9 @@
+evisionsFilePath: "ubuntu1604_rbe/revisions.bzl"
+
+githubRepoDeps:
+
+  # layer-definitions repo.
+  - name: "layer-definitions"
+    owner: "GoogleCloudPlatform"
+    repo: "layer-definitions"
+    updateType: "commit"
