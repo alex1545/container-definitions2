@@ -7,4 +7,4 @@ githubRepoDeps:
     owner: "bazelbuild"
     repo: "bazel-toolchains"
     branch: "master"
-    updateType: "release"
+    updateType: "commit"
