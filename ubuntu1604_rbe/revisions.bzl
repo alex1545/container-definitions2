@@ -16,6 +16,6 @@
 # For more details, check the deps_spec.yaml file in the current folder.
 
 bazel-toolchains = struct(
-    commit = "94d31935a2c94fe7e7c7379a0f3393e181928ff7",
-    sha256 = "109a99384f9d08f9e75136d218ebaebc68cc810c56897aea2224c57932052d30",
+    commit = "398da12f8272bba0067e80878eb507df00bdb79d",
+    sha256 = "ba8e4be89c98e09a2fa9b8eee0bb55b12577ed94c0e29198992963ba5a4bd5e6",
 )
