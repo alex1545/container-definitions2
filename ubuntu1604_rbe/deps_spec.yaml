@@ -6,4 +6,4 @@ githubRepoDeps:
   - name: "bazel-toolchains"
     owner: "bazelbuild"
     repo: "bazel-toolchains"
-    updateType: "release"
+    updateType: ""
